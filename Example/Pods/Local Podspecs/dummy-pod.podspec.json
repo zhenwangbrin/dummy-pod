@@ -1,0 +1,22 @@
+{
+  "name": "dummy-pod",
+  "version": "0.1.0",
+  "summary": "A short description of dummy-pod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Zhen Niu/dummy-pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Zhen Niu": "zhen_wang2003@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/Zhen Niu/dummy-pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "dummy-pod/Classes/**/*"
+}

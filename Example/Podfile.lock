@@ -1,0 +1,16 @@
+PODS:
+  - dummy-pod (0.1.0)
+
+DEPENDENCIES:
+  - dummy-pod (from `../`)
+
+EXTERNAL SOURCES:
+  dummy-pod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  dummy-pod: f32a09788ff1cc3cbf6a373386fe41d94a2a42b5
+
+PODFILE CHECKSUM: f096c26baa0419fd57056dc4db13c12211502f4f
+
+COCOAPODS: 1.2.1
